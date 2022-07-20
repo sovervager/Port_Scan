@@ -1,0 +1,15 @@
+L:\C#\ConsoleNetScan2\SCAN_2\bin\Release\net6.0\SCAN_2.exe
+L:\C#\ConsoleNetScan2\SCAN_2\bin\Release\net6.0\SCAN_2.deps.json
+L:\C#\ConsoleNetScan2\SCAN_2\bin\Release\net6.0\SCAN_2.runtimeconfig.json
+L:\C#\ConsoleNetScan2\SCAN_2\bin\Release\net6.0\SCAN_2.dll
+L:\C#\ConsoleNetScan2\SCAN_2\bin\Release\net6.0\SCAN_2.pdb
+L:\C#\ConsoleNetScan2\SCAN_2\obj\Release\net6.0\SCAN_2.csproj.AssemblyReference.cache
+L:\C#\ConsoleNetScan2\SCAN_2\obj\Release\net6.0\SCAN_2.GeneratedMSBuildEditorConfig.editorconfig
+L:\C#\ConsoleNetScan2\SCAN_2\obj\Release\net6.0\SCAN_2.AssemblyInfoInputs.cache
+L:\C#\ConsoleNetScan2\SCAN_2\obj\Release\net6.0\SCAN_2.AssemblyInfo.cs
+L:\C#\ConsoleNetScan2\SCAN_2\obj\Release\net6.0\SCAN_2.csproj.CoreCompileInputs.cache
+L:\C#\ConsoleNetScan2\SCAN_2\obj\Release\net6.0\SCAN_2.dll
+L:\C#\ConsoleNetScan2\SCAN_2\obj\Release\net6.0\refint\SCAN_2.dll
+L:\C#\ConsoleNetScan2\SCAN_2\obj\Release\net6.0\SCAN_2.pdb
+L:\C#\ConsoleNetScan2\SCAN_2\obj\Release\net6.0\SCAN_2.genruntimeconfig.cache
+L:\C#\ConsoleNetScan2\SCAN_2\obj\Release\net6.0\ref\SCAN_2.dll

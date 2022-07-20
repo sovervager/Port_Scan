@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SCAN_2": {
+      "commandName": "Project",
+      "commandLineArgs": "TextFile1.txt port.txt"
+    }
+  }
+}
